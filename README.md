@@ -11,7 +11,7 @@
 ## Curriculum
 
 > | Chapter | Subject                                  | Note |
-> | --------- | --------------------------------- | ---- | ---------------------------------------- |
+> | --------- | --------------------------------- | ---- |
 > | 1       | [iOS Basic, Xcode 기본, View 화면 전환]() |      |
 > | 2      | [AutoLayout, ScrollView, StackView]() |      |
 > | 3      | [TableView, CollectionView with Delegate Pattern]() |      |
