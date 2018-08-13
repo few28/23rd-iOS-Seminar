@@ -24,3 +24,6 @@
 ## Etc.
 * [Swift 기초](https://github.com/few28/23rd-iOS-Seminar/blob/master/Swift_Basic.md)
 * [Swift 심화]()
+### 참고문서
+> * [Swift Programming Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)  
+> * [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
