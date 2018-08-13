@@ -1,5 +1,5 @@
 # SOPT 23기 iOS파트
-> SOPT 23기 iOS파트 세미나와 실습 자료입니다.  
+> SOPT 23기 iOS파트 세미나의 강의내용입니다.  
 
 
 ## Requirements
