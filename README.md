@@ -20,3 +20,7 @@
 > | 6      | [PageView, Animation With CustomView]() |      |
 > | 7      | [서버 합동 세미나]() |      |
 > | 8      | [Open API, 앱잼 전 보충 세미나]() |      |
+
+## etc.
+* [Swift 기초]()
+* [Swift 심화]()
