@@ -18,9 +18,9 @@
 > | 4      | [Cocoapods & Networking, REST API 기본]() |      |
 > | 5      | [HIG 훑어보기, Image Assets 적용 & 폴더링, 디자인 합동 세미나]() |      |
 > | 6      | [PageView, Animation With CustomView]() |      |
-> | 7      | [서버 합동 세미나]() |      |
+> | 7      | 서버 합동 세미나 |      |
 > | 8      | [Open API, 앱잼 전 보충 세미나]() |      |
 
-## etc.
+## Etc.
 * [Swift 기초]()
 * [Swift 심화]()
