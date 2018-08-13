@@ -22,5 +22,5 @@
 > | 8      | [Open API, 앱잼 전 보충 세미나]() |      |
 
 ## Etc.
-* [Swift 기초]()
+* [Swift 기초](https://github.com/few28/23rd-iOS-Seminar/blob/master/Swift_Basic.md)
 * [Swift 심화]()
