@@ -2,21 +2,21 @@
 > `Swift`의 기본 문법을 다룹니다.
 
 ## 목차
-> * 상수와 변수
-> * 기본 데이터 타입
-> * 컬렉션
-> * 함수
-> * 조건문, 반복문
-> * 옵셔널`Optional`
-> * 구조체, 클래스
-> * 프로토콜`Protocol`
-> * 확장`extension`
-> * POP (Protocol Oriented Programming)
+* 상수와 변수
+* 기본 데이터 타입
+* 컬렉션
+* 함수
+* 조건문, 반복문
+* 옵셔널 `Optional`
+* 구조체, 클래스
+* 프로토콜 `Protocol`
+* 확장 `extension`
+* POP (Protocol Oriented Programming)
 
-## 1. 상수와 변수
+## 01. 상수와 변수
 ### 상수, 변수의 선언
-> * 상수 선언 키워드 `let`
-> * 변수 선언 키워드 `var`  
+* 상수 선언 키워드 `let`
+* 변수 선언 키워드 `var`  
 ```swift
 let name: Type = value  
 var name: Type = value  
@@ -35,29 +35,29 @@ constant = "상수는 불가능합니다." // 에러
 ```
 
 
-## 2. 기본 데이터 타입
+## 02. 기본 데이터 타입
 
 
 
-## 3. 컬렉션
+## 03. 컬렉션
 
 
-## 4. 함수
+## 04. 함수
 
 
-## 5. 조건문, 반복문
+## 05. 조건문, 반복문
 
 
-## 6. Optional
+## 06. Optional
 
 
-## 7. 구조체, 클래스
+## 07. 구조체, 클래스
 
 
-## 8. Protocol
+## 08. Protocol
 
 
-## 9. Extension
+## 09. Extension
 
 
 ## 10. Protocol Oriented Programming, POP
