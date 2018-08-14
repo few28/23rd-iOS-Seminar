@@ -33,20 +33,23 @@ var variable: String = "선언 후에도 변경이 가능한 변수"
 variable = "변수는 이렇게 다른 값을 할당할 수 있지만"
 constant = "상수는 불가능합니다." // 에러
 ```
-## 01-1. 코드 작성 규칙, 로그 찍어보기
+## 01-1. 네이밍 규칙, 로그 찍어보기
 
 ### 카멜표기법 "camelCase"
 * 각 단어의 첫 알파벳을 대문자로 표기하는 것이 마치 낙타의 등과 같아보여서 붙여진 이름
 * 띄어쓰기 대신 대문자로 단어를 구분하는 표기 방식
-#### lowerCamelCase
-> 첫번째 단어만 모두 소문자로 표현하고 다음 단어부터 첫 알파벳을 대문자로 표기
-> function, variable, constant 등의 경우가 이 표기를 따름  
+#### lowerCamelCase 와 UpperCamelCase
+> lowerCamelCase : 첫번째 단어만 소문자로 표현하고 다음 단어부터 첫 알파벳을 대문자로 표기  
+> UpperCamelCase :  모든 단어의 첫 알파벳을 대문자로 표기
+
+타입이나 프로토콜의 이름은 모두 UpperCamelCase 로 표기  
+> 여기서 타입은 타입이 될 수 있는 모든 것을 의미함 : `Class`, `Structure`, `Enum` 등
+그 외는 모두 lowerCamelCase 로 사용
+
+
 ```swift
-
+let maximumNumberOfLines = 3
 ```
-
-#### UpperCamelCase
-
 
 ## 02. 기본 데이터 타입
 
