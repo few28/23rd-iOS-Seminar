@@ -16,9 +16,11 @@
 ## 1. 상수와 변수
 ### 상수, 변수의 선언
 > * 상수 선언 키워드 `let`
-> * 변수 선언 키워드 `var`
-let 이름 : 타입 = 값  
-var 이름 : 타입 = 값  
+> * 변수 선언 키워드 `var`  
+```swift
+let name: Type = value  
+var name: Type = value  
+```
 > 값의 타입이 명확하다면 타입 생략 가능
 ```swift
 let name = value
