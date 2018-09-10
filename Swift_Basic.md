@@ -7,10 +7,10 @@
 * 컬렉션
 * 함수
 * 조건문, 반복문
-* 옵셔널 `Optional`
+* 옵셔널
 * 구조체, 클래스
-* 프로토콜 `Protocol`
-* 확장 `extension`
+* 프로토콜
+* 확장
 * POP (Protocol Oriented Programming)
 
 ## 01. 상수와 변수
@@ -43,12 +43,43 @@ constant = "상수는 불가능합니다." // 에러
 > UpperCamelCase :  모든 단어의 첫 알파벳을 대문자로 표기
 
 타입이나 프로토콜의 이름은 모두 UpperCamelCase 로 표기  
-> 여기서 타입은 타입이 될 수 있는 모든 것을 의미함 : `Class`, `Structure`, `Enum` 등
-그 외는 모두 lowerCamelCase 로 사용
-
-
+> 여기서 타입이라는 것은 타입이 될 수 있는 모든 것을 의미함 - `Class`, `Structure`, `Enum` 등  
+> 그 외는 모두 lowerCamelCase 로 사용  
 ```swift
-let maximumNumberOfLines = 3
+// 예시
+
+class Person {
+    let maximumNumberOfPersons = 3
+    
+    func 
+    
+}
+```
+### 로그 출력
+```swift
+/*
+    Swift의 로그를 출력하는 함수는 print를 사용한다.
+    기본적으로 개행(\n)을 포함한다.
+*/
+let str = "Hello, SOPT! Swift! iOS!"
+let name = "sopt"
+
+print("Hello world!") // "Hello world!"
+print(str)            // "Hello, SOPT! Swift! iOS!"
+print("hi" + name)
+print("hi", name)
+
+/*
+    출력하는 문자열 안의 데이터를 표현하고 싶을 때 \()를 사용한다.
+*/
+let pi = 3.14
+let sin30 = 0.5
+
+print(pi) // "3.14"
+print(sin30) // "0.5"
+
+print("pi is \(pi)")  // "pi is 3.14"
+print("sin30 is \(sin30)") // "sin30 is 0.5"
 ```
 
 ## 02. 기본 데이터 타입
@@ -58,22 +89,29 @@ let maximumNumberOfLines = 3
 ## 03. 컬렉션
 
 
+
 ## 04. 함수
+
 
 
 ## 05. 조건문, 반복문
 
 
+
 ## 06. Optional
+
 
 
 ## 07. 구조체, 클래스
 
 
+
 ## 08. Protocol
 
 
+
 ## 09. Extension
+
 
 
 ## 10. Protocol Oriented Programming, POP
