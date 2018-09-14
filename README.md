@@ -21,9 +21,6 @@
 > | 7      | 서버 합동 세미나 |      |
 > | 8      | Open API, 앱잼 전 보충 세미나 |      |
 
-## Swift.
-* [Swift 기초](https://github.com/few28/23rd-iOS-Seminar/blob/master/Swift_Basic.md)
-
 ### 참고문서
 > * [Swift Programming Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)  
 > * [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
